@@ -1,0 +1,48 @@
+img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+    margin-top: -100px;
+    margin-left: 449px;
+    padding: 0%;
+    position: absolute;
+}
+
+.imagen2{
+    height: 350px;
+    margin-top: 150px;
+    margin-left: 615px;
+    display: flex;
+}
+
+
+p{
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 490px;
+    position: relative;
+    top: -60px;
+    color: white;
+}
+
+button#nada1{
+    display: contents;
+    position: relative;
+}
+
+#nada5{
+    color: blue;
+    position: relative;
+    left: 90%;
+    justify-content: center;
+    right: 50%;
+
+}
+
+
+
+body{
+    background-color: black;
+}

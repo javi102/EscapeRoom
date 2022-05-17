@@ -1,0 +1,81 @@
+img{
+    margin: auto;
+    display: flex;
+    margin-top: 170px;
+
+}
+
+
+body{
+    background-color: black;
+}
+
+
+#uno{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+
+
+#dos{
+    display: flex;
+    justify-content: right;
+    color: black;
+}
+
+#tres{
+    display: flex;
+    position: relative;
+    bottom: 200px;
+    color: black;
+}
+
+
+
+#cuatro{
+    display: block;
+    position: relative;
+    bottom: 650px;
+    color: black;
+}
+
+
+
+
+
+
+#cinco{
+
+    display: flex;
+    position: relative;
+    justify-content: end;
+    top:220px;
+    color: black;
+    
+}
+
+
+
+#seis{
+    display: flex;
+    position: relative;
+    justify-content: end;
+    right: 260px;
+    bottom: 600px;
+    color: black;
+}
+
+
+
+
+
+
+#siete{
+    display: flex;
+    position: relative;
+    top: 200px;
+    color: black;
+}
+
